@@ -5,7 +5,7 @@ import streamlit as st
 import pandas as pd
 
 # 1. 제목
-st.title("김연우")
+st.title("쀼쀼쀼")
 
 # 2. 부제목
 st.subheader("이 페이지는 다양한 Streamlit 기능을 보여줍니다.")
